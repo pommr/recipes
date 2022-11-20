@@ -1,1 +1,1 @@
-# recipes
+a basic recipe page with html with git and github
